@@ -1,0 +1,10 @@
+= Swift tutorial
+
+I built a tip calculator application from the tutorial available at the below URL. Working on learning IOS development and this was interesting. A few additions I made:
+
+- Added decimal formatting. Key reference: https://devforums.apple.com/message/973494
+- Changed the text of the output a bit from what was referenced.
+- worked on getting the bill cost text input to clear when tapped (not completed)
+
+Source of the tutorial:
+http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app
