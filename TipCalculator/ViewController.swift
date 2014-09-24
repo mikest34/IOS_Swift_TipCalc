@@ -39,6 +39,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func totalTapped(sender : AnyObject) {
+        NSLog("total tapped was called")
         totalTextField.text = nil
     }
 

@@ -40,7 +40,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
-                                    <action selector="totalTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="CjC-Wu-laX"/>
+                                    <action selector="totalTapped:" destination="vXZ-lx-hvc" eventType="editingDidBegin" id="e3C-PV-z5c"/>
                                 </connections>
                             </textField>
                             <slider opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="6" minValue="0.0" maxValue="10" translatesAutoresizingMaskIntoConstraints="NO" id="1aV-zI-5rv">
